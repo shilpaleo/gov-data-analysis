@@ -1,0 +1,102 @@
+var_name,var_label
+Respondent_Serial,Respondent Serial
+Respondent_ID,Respondent ID
+Country,Country
+YEARbornin_1_slice,"Q12. Which year were you born in? Please enter in four digit format, i.e. 1985, 1998, etc."
+YEARbornin_1_slice1,"Q12. Which year were you born in? Please enter in four digit format, i.e. 1985, 1998, etc. - Age"
+AgeOfRespondent,Q12-age . This variable stores the age of the respondent
+IndicateAge,Q13. What is your age?
+Gender,Q14. You are?
+OCCSTATUS,Q17. What is your current occupational status?
+LEVELSCH,Q18. What level of schooling are you in now?
+HIGHESTLEVEL,Q19. What is your highest level of education that you have completed?
+UNISCH,Q20. Which University did you complete your undergraduate/ post grad studies in?
+POSTGRADSCH,Q21. Which University did you complete your postgraduate studies in?
+OCCUPATIONINDUSTRY,"Q22. Which of the following best describes your current occupation industry, or your most recent occupation, if you are not currently working"
+OCCUPATION2,"Q23. Which one of the following best describes your current occupation, or your most recent occupation if you are not working at the moment?"
+WHICHAUTHORITY,"Q28. 'Whether someone showed disrespect towards authority',what was the very first kind of 'authority' that you thought of when you were looking at this statement?"
+RANKMOSTIMPTCHILD_new_1_slice,"Q29. From the options below, who do you think is most important for a child to respect? - Someone who is my elder(s) (e.g. grandparents, parents, older siblings)"
+RANKMOSTIMPTCHILD_new_2_slice,"Q29. From the options below, who do you think is most important for a child to respect? - Someone who possesses strong knowledge or expertise(e.g. teachers, professors, scholars)"
+RANKMOSTIMPTCHILD_new_3_slice,"Q29. From the options below, who do you think is most important for a child to respect? - Representative(s) from official institutions(e.g.law enforcement,police officers,government authorities)"
+LIVINGINSG_1_slice,"Q30. Living in Singapore - Agree\disagree - As a citizen/resident,I will abide by government regulations in order to maintain peace & harmony in Singapore,even if not able to express I feel\want"
+LIVINGINSG_2_slice,"Q30. Living in Singapore - Agree or disagree - It is my responsibility to put the interests of group\organisation above mine, even if having to follow certain laws that compromise my freedom"
+LIVINGINSG_3_slice,Q30. Living in Singapore - Agree or disagree - I believe that government regulations are made for my benefit even if I may not agree with them
+LIVINGINSG_4_slice,Q30. Living in Singapore - Agree or disagree - I believe that government regulations are made for my benefit even if they may restrict what I say or do
+VBC,Q31. Freedom of expression and individual rights are some topics that have been talked about recently. Which of the following options best represent how you feel about freedom of expression?
+SLIDERLIBERTY_1_slice,Q32. Please read the following sentences and move the slider according to which statement you agree with more
+MARITIALSTATUS,Q36. What is your current marital status?
+CHILDREN,Q37. Do you have any children?
+NOOFCHILDREN,Q38. How many children do you have?
+CHILDAGE,Q39. What is the age of your youngest child ?
+PERSONALINCOME,Q40. What is your gross monthly/last-drawn PERSONAL income (from all sources)
+HHI,Q41. What is your gross monthly/last-drawn HOUSEHOLD income (from all sources)?
+SOCIALNETWORK_1_slice,Q43. Do you have close friends who are of a different ...... from you? - Different ethnicity from you?
+SOCIALNETWORK_2_slice,Q43. Do you have close friends who are of a different ...... from you? - Different nationality from you?
+SOCIALNETWORK_3_slice,Q43. Do you have close friends who are of a different ...... from you? - Different religion from you?
+SOCIALNETWORK_4_slice,Q43. Do you have close friends who are of a different ...... from you? - Different income group from you?
+SOCIALNETWORK_5_slice,Q43. Do you have close friends who are of a different ...... from you? - Different education background from you?
+SOCIALNETWORK_6_slice,Q43. Do you have close friends who are of a different ...... from you? - Different sexual orientation from you?
+SOCIALNETWORK_DP01,Do you have close friends who are of a different ...... from you? - 1 yes
+SOCIALNETWORK_DP02,Do you have close friends who are of a different ...... from you? - 2-3 yes
+SOCIALNETWORK_DP03,Do you have close friends who are of a different ...... from you? - 4-5 yes
+SOCIALNETWORK_DP04,Do you have close friends who are of a different ...... from you? - All yes
+SOCIALNETWORK_DP05,Do you have close friends who are of a different ...... from you? - All no
+SOCIALNETWORK_DP06,Do you have close friends who are of a different ...... from you? - Yes in Row 6
+SOCIALNETWORK_DP07,Do you have close friends who are of a different ...... from you? - No in Row 6
+SOCIALNETWORK_DP08,Do you have close friends who are of a different ...... from you? - Net : Social ties
+SOCIALNETWORK_DP09,Do you have close friends who are of a different ...... from you? - Net : Economic status
+SOCIALNETWORK_DP10,Do you have close friends who are of a different ...... from you? - Net : Sexual orientation
+Q20_Q211,Which University did you complete your undergraduate studies in? - Studied at local university
+Q20_Q212,Which University did you complete your undergraduate studies in? - Studied locally (local uni/ overseas degree in SG )
+Q20_Q213,Which University did you complete your undergraduate studies in? - Local but overseas degree
+Q20_Q214,Which University did you complete your undergraduate studies in? - Overseas
+Ban_Age,Q13. Age
+Ban_Gender,Q14. Gender
+Ban_Personal_Inc,Q40. Personal Income
+Ban_MHI,Q41. Monthly Household Income
+Ban_Q18_Q191,Q18. Q19 Education - Net - Secondary and below: Q18 Q19 Education
+Ban_Q18_Q192,Q18. Q19 Education - Net - Post-secondary (ITE/JC): Q18 Q19 Education
+Ban_Q18_Q193,Q18. Q19 Education - Polytechnic: Q18 Q19 Education
+Ban_Q18_Q194,Q18. Q19 Education - Net - Degree and above: Q18 Q19 Education
+Ban_Education1,Q20. Q21 Overseas or local education for uni grad and post grad - Local uni in SG: Q20 Q21 Overseas or local education for uni grad and post grad
+Ban_Education2,Q20. Q21 Overseas or local education for uni grad and post grad - Overseas degree located in SG: Q20 Q21 Overseas or local education for uni grad and post grad
+Ban_Education3,Q20. Q21 Overseas or local education for uni grad and post grad - Net- Studied locally (local uni or overseas degree located in SG): Q20 Q21 Overseas or local education for uni grad and post grad
+Ban_Education4,Q20. Q21 Overseas or local education for uni grad and post grad - Overseas located outside of SG : Q20 Q21 Overseas or local education for uni grad and post grad
+Ban_Occupation_Status1,Q17. Occupational Status - Net-Unemployed : Q17 Occupational Status
+Ban_Occupation_Status2,Q17. Occupational Status - Net-Employed: Q17 Occupational Status
+Ban_Occupation_Status3,Q17. Occupational Status - Private Sector : Q17 Occupational Status
+Ban_Occupation_Status4,Q17. Occupational Status - Public Sector : Q17 Occupational Status
+Ban_Occupation_Status5,Q17. Occupational Status - Business Owners: Q17 Occupational Status
+Ban_Occupation_Status6,Q17. Occupational Status - Net - Student : Q17 Occupational Status
+Ban_Occupation_Status7,Q17. Occupational Status - NS: Q17 Occupational Status
+Ban_Occupation_Status8,Q17. Occupational Status - Homemaker: Q17 Occupational Status
+Ban_Occupation_Status9,Q17. Occupational Status - Retiree: Q17 Occupational Status
+Ban_Occupation_Role1,Q23. Occupational Role - Business Owner: Q23 Occupational Role
+Ban_Occupation_Role2,Q23. Occupational Role - Senior management : Q23 Occupational Role
+Ban_Occupation_Role3,Q23. Occupational Role - Middle management : Q23 Occupational Role
+Ban_Occupation_Role4,Q23. Occupational Role - Junior Management : Q23 Occupational Role
+Ban_Occupation_Role5,Q23. Occupational Role - Professionals : Q23 Occupational Role
+Ban_Occupation_Role6,Q23. Occupational Role - Non-management : Q23 Occupational Role
+Ban_Occupation_Role7,Q23. Occupational Role - Net -Blue-collar (skilled and unskilled) : Q23 Occupational Role
+Ban_Occupation_Role8,Q23. Occupational Role - Net- White collar : Q23 Occupational Role
+Ban_Marital,Q36. Marital status
+Ban_Children1,Q37. Children - Yes : Q37 Children
+Ban_Children2,Q37. Children - No : Q37 Children
+Ban_Children3,Q37. Children - Expecting 1st child: Q37 Children
+Ban_Children4,Q37. Children - Net  (No + Expecting 1st child) : Q37 Children
+Ban_no_ofChildren,Q38. No of children
+Ban_age_youngest,Q39. Age of youngest child
+Ban_Q28,Q28. Which authority?
+Ban_Q30_1,"Q30. As a citizen/resident, I will abide by government regulations in order to maintain peace and harmony in Singapore�"
+Ban_Q30_2,Q30. It is my responsibility to put the interests of my group or organisation above mine�
+Ban_Q30_3,Q30. I believe that government regulations are made for my benefit even if I may not agree with them
+Ban_Q30_4,Q30. I believe that government regulations are made for my benefit even if they may restrict what I say or do
+Ban_Q32,Q32. Views on liberty
+Ban_Q431,Q43. Social networking Diversity - answered only 1 yes : Q43 Social networking Diversity
+Ban_Q432,Q43. Social networking Diversity - answered 2-3 yes : Q43 Social networking Diversity
+Ban_Q433,Q43. Social networking Diversity - answered 4-5 yes : Q43 Social networking Diversity
+Ban_Q434,Q43. Social networking Diversity - answered all yes : Q43 Social networking Diversity
+Ban_Q435,Q43. Social networking Diversity - Answered all no: Q43 Social networking Diversity
+Ban_Q436,Q43. Social networking Diversity - Sexual orientation- answered yes : Q43 Social networking Diversity
+Ban_Q437,Q43. Social networking Diversity - Sexual orientation- answered no : Q43 Social networking Diversity
+MD_Segment,MFT pillar
