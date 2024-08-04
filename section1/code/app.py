@@ -9,7 +9,7 @@ from sklearn.metrics import mean_absolute_percentage_error
 
 # Define GCS details
 BUCKET_NAME = 'sarima_model_poly_timeseries'
-MODEL_FILENAME = 'sarima_model_Acute Diarrhoea.pkl'
+MODEL_FILENAME = 'sarima_model_AcuteDiarrhoea.pkl'
 MODEL_URL = f'https://storage.googleapis.com/{BUCKET_NAME}/{MODEL_FILENAME}'
 LOCAL_MODEL_PATH = MODEL_FILENAME
 
